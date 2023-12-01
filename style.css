@@ -164,3 +164,52 @@ align-items: center;
     display: flex;
     gap: 50px;
 }
+.section-features{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+.features-list{
+    justify-content: center;
+    display: flex;
+}
+.section-work{
+    padding-bottom: 94px;
+}
+.work-list{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+.team-list{
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+}
+.address-list{
+justify-content:s ;
+}
+.footer{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.box{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.buttons-list{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 50px;
+}
+.portfolio-list{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 30px;
+}
+.portfolio-section{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
